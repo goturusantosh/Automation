@@ -1,0 +1,16 @@
+{
+
+	"name": "hasbro_nightwatch_automation",
+	"version": "1.0.0",
+	"license": "OpenSource",
+	"scripts":{
+		"smoke": "<Command to run smoke>",
+		"regression": "<Command to rum Regression>"
+	},
+	"devDependencies":{
+		"nightwatch": "0.9.11",
+		"selenium-server": "2.53.1",
+		"chromedriver": "2.30.1"
+	}
+
+}

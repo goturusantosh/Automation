@@ -1,0 +1,9 @@
+.vscode/*
+node_modules/*
+reports/*
+*.log
+*.log.*
+*.txt
+.git/*
+.idea/*
+test_framework.js
