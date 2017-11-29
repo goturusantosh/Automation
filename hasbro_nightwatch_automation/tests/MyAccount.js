@@ -1,6 +1,6 @@
 var keyword = require('../libs/genericKeywords.js');
 var data = require('../test_data/global_data.js');
-var commonTest = require('../libs/commonTest.js');
+var commonTest = require('../libs/commonTest.js'); //test
 
 module.exports = {
     '@tags' : ['smoke','MyAccount','Regression'],
